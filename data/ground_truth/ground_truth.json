@@ -1,0 +1,44 @@
+[
+  {
+    "issue_type": "unavailable_interviewer",
+    "entity_type": "interview",
+    "entity_id": "INT-2026-000001",
+    "ground_truth": "anomaly",
+    "expected_action": "block_or_reschedule"
+  },
+  {
+    "issue_type": "interviewer_conflict",
+    "entity_type": "interview",
+    "entity_id": "INT-2026-000002",
+    "ground_truth": "anomaly",
+    "expected_action": "reject_or_reschedule_conflicting_interview"
+  },
+  {
+    "issue_type": "candidate_duplicate_application_attempt",
+    "entity_type": "application",
+    "entity_id": "APP-REQ-2026-000052-CAND-000679",
+    "ground_truth": "duplicate_attempt_prevented_by_unique_constraint",
+    "expected_action": "reject_duplicate"
+  },
+  {
+    "issue_type": "missing_feedback_stage_advanced",
+    "entity_type": "application",
+    "entity_id": "APP-REQ-2026-000027-CAND-001117",
+    "ground_truth": "anomaly",
+    "expected_action": "block_stage_progression"
+  },
+  {
+    "issue_type": "salary_outside_band",
+    "entity_type": "offer",
+    "entity_id": "OFF-2026-000001",
+    "ground_truth": "anomaly",
+    "expected_action": "block_offer_approval"
+  },
+  {
+    "issue_type": "closed_role_active_application",
+    "entity_type": "requisition",
+    "entity_id": "REQ-2026-000001",
+    "ground_truth": "anomaly",
+    "expected_action": "close_or_withdraw_active_applications"
+  }
+]

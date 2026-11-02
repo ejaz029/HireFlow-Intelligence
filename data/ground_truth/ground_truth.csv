@@ -1,0 +1,7 @@
+issue_type,entity_type,entity_id,ground_truth,expected_action
+unavailable_interviewer,interview,INT-2026-000001,anomaly,block_or_reschedule
+interviewer_conflict,interview,INT-2026-000002,anomaly,reject_or_reschedule_conflicting_interview
+candidate_duplicate_application_attempt,application,APP-REQ-2026-000052-CAND-000679,duplicate_attempt_prevented_by_unique_constraint,reject_duplicate
+missing_feedback_stage_advanced,application,APP-REQ-2026-000027-CAND-001117,anomaly,block_stage_progression
+salary_outside_band,offer,OFF-2026-000001,anomaly,block_offer_approval
+closed_role_active_application,requisition,REQ-2026-000001,anomaly,close_or_withdraw_active_applications

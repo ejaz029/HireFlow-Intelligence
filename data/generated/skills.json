@@ -1,0 +1,50 @@
+[
+  {
+    "skill_id":"SKL-001",
+    "name":"Python"
+  },
+  {
+    "skill_id":"SKL-002",
+    "name":"SQL"
+  },
+  {
+    "skill_id":"SKL-003",
+    "name":"FastAPI"
+  },
+  {
+    "skill_id":"SKL-004",
+    "name":"React"
+  },
+  {
+    "skill_id":"SKL-005",
+    "name":"TypeScript"
+  },
+  {
+    "skill_id":"SKL-006",
+    "name":"AWS"
+  },
+  {
+    "skill_id":"SKL-007",
+    "name":"Docker"
+  },
+  {
+    "skill_id":"SKL-008",
+    "name":"Machine Learning"
+  },
+  {
+    "skill_id":"SKL-009",
+    "name":"Communication"
+  },
+  {
+    "skill_id":"SKL-010",
+    "name":"Testing"
+  },
+  {
+    "skill_id":"SKL-011",
+    "name":"PostgreSQL"
+  },
+  {
+    "skill_id":"SKL-012",
+    "name":"Data Analysis"
+  }
+]

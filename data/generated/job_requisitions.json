@@ -1,0 +1,1302 @@
+[
+  {
+    "requisition_id":"REQ-2026-000001",
+    "department_id":"DEP-001",
+    "title":"QA Engineer",
+    "status":"closed",
+    "salary_min":1000000,
+    "salary_max":2500000,
+    "required_skills":[
+      "TypeScript",
+      "FastAPI",
+      "Python"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000002",
+    "department_id":"DEP-002",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1300000,
+    "salary_max":1800000,
+    "required_skills":[
+      "Python",
+      "React",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000003",
+    "department_id":"DEP-003",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":1400000,
+    "salary_max":1700000,
+    "required_skills":[
+      "Data Analysis",
+      "React",
+      "FastAPI"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000004",
+    "department_id":"DEP-004",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":1200000,
+    "salary_max":1600000,
+    "required_skills":[
+      "Testing",
+      "SQL",
+      "AWS"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000005",
+    "department_id":"DEP-005",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":1600000,
+    "required_skills":[
+      "FastAPI",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000006",
+    "department_id":"DEP-001",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":1300000,
+    "salary_max":2400000,
+    "required_skills":[
+      "AWS",
+      "SQL",
+      "FastAPI"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000007",
+    "department_id":"DEP-002",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2300000,
+    "required_skills":[
+      "Data Analysis",
+      "Python",
+      "FastAPI"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000008",
+    "department_id":"DEP-003",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":600000,
+    "salary_max":2100000,
+    "required_skills":[
+      "SQL",
+      "TypeScript",
+      "Communication"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000009",
+    "department_id":"DEP-004",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":1900000,
+    "required_skills":[
+      "Testing",
+      "Machine Learning",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000010",
+    "department_id":"DEP-005",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":2100000,
+    "required_skills":[
+      "Python",
+      "Testing",
+      "Docker"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000011",
+    "department_id":"DEP-001",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":1600000,
+    "required_skills":[
+      "Data Analysis",
+      "FastAPI",
+      "TypeScript"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000012",
+    "department_id":"DEP-002",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":2700000,
+    "required_skills":[
+      "Python",
+      "TypeScript",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000013",
+    "department_id":"DEP-003",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":1400000,
+    "salary_max":2500000,
+    "required_skills":[
+      "Python",
+      "Data Analysis",
+      "Communication"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000014",
+    "department_id":"DEP-004",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":1600000,
+    "required_skills":[
+      "Machine Learning",
+      "AWS",
+      "React"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000015",
+    "department_id":"DEP-005",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":1300000,
+    "salary_max":2700000,
+    "required_skills":[
+      "PostgreSQL",
+      "Communication",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000016",
+    "department_id":"DEP-001",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":900000,
+    "salary_max":2100000,
+    "required_skills":[
+      "Communication",
+      "Docker",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000017",
+    "department_id":"DEP-002",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":1800000,
+    "required_skills":[
+      "FastAPI",
+      "Communication",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000018",
+    "department_id":"DEP-003",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":2600000,
+    "required_skills":[
+      "Python",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000019",
+    "department_id":"DEP-004",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":1300000,
+    "salary_max":2800000,
+    "required_skills":[
+      "Communication",
+      "React",
+      "SQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000020",
+    "department_id":"DEP-005",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":1300000,
+    "salary_max":1800000,
+    "required_skills":[
+      "FastAPI",
+      "Machine Learning",
+      "React"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000021",
+    "department_id":"DEP-001",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2400000,
+    "required_skills":[
+      "Testing",
+      "AWS",
+      "SQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000022",
+    "department_id":"DEP-002",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":2900000,
+    "required_skills":[
+      "SQL",
+      "Testing",
+      "React"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000023",
+    "department_id":"DEP-003",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":2200000,
+    "required_skills":[
+      "Testing",
+      "Communication",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000024",
+    "department_id":"DEP-004",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":1900000,
+    "required_skills":[
+      "Machine Learning",
+      "React",
+      "Docker"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000025",
+    "department_id":"DEP-005",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2800000,
+    "required_skills":[
+      "FastAPI",
+      "Docker",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000026",
+    "department_id":"DEP-001",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":2500000,
+    "required_skills":[
+      "TypeScript",
+      "Python",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000027",
+    "department_id":"DEP-002",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":1300000,
+    "salary_max":1900000,
+    "required_skills":[
+      "Machine Learning",
+      "FastAPI",
+      "Python"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000028",
+    "department_id":"DEP-003",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":1200000,
+    "salary_max":2200000,
+    "required_skills":[
+      "AWS",
+      "Docker",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000029",
+    "department_id":"DEP-004",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":2400000,
+    "required_skills":[
+      "Data Analysis",
+      "React",
+      "Docker"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000030",
+    "department_id":"DEP-005",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2400000,
+    "required_skills":[
+      "Data Analysis",
+      "Testing",
+      "Communication"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000031",
+    "department_id":"DEP-001",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1400000,
+    "salary_max":2300000,
+    "required_skills":[
+      "Python",
+      "React",
+      "Communication"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000032",
+    "department_id":"DEP-002",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":2500000,
+    "required_skills":[
+      "AWS",
+      "TypeScript",
+      "FastAPI"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000033",
+    "department_id":"DEP-003",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":2800000,
+    "required_skills":[
+      "Python",
+      "Data Analysis",
+      "Communication"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000034",
+    "department_id":"DEP-004",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":2000000,
+    "required_skills":[
+      "AWS",
+      "Data Analysis",
+      "SQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000035",
+    "department_id":"DEP-005",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2500000,
+    "required_skills":[
+      "FastAPI",
+      "TypeScript",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000036",
+    "department_id":"DEP-001",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":1300000,
+    "salary_max":2900000,
+    "required_skills":[
+      "React",
+      "Python",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000037",
+    "department_id":"DEP-002",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2100000,
+    "required_skills":[
+      "Machine Learning",
+      "AWS",
+      "FastAPI"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000038",
+    "department_id":"DEP-003",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":1200000,
+    "salary_max":1700000,
+    "required_skills":[
+      "Testing",
+      "Data Analysis",
+      "AWS"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000039",
+    "department_id":"DEP-004",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":1200000,
+    "salary_max":2800000,
+    "required_skills":[
+      "Machine Learning",
+      "Python",
+      "TypeScript"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000040",
+    "department_id":"DEP-005",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":900000,
+    "salary_max":1600000,
+    "required_skills":[
+      "Docker",
+      "PostgreSQL",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000041",
+    "department_id":"DEP-001",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":2400000,
+    "required_skills":[
+      "Communication",
+      "PostgreSQL",
+      "Testing"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000042",
+    "department_id":"DEP-002",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":2800000,
+    "required_skills":[
+      "TypeScript",
+      "SQL",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000043",
+    "department_id":"DEP-003",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":1400000,
+    "salary_max":1800000,
+    "required_skills":[
+      "Communication",
+      "React",
+      "Docker"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000044",
+    "department_id":"DEP-004",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":1600000,
+    "required_skills":[
+      "Communication",
+      "Machine Learning",
+      "TypeScript"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000045",
+    "department_id":"DEP-005",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":1300000,
+    "salary_max":1600000,
+    "required_skills":[
+      "AWS",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000046",
+    "department_id":"DEP-001",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":900000,
+    "salary_max":2600000,
+    "required_skills":[
+      "AWS",
+      "Data Analysis",
+      "React"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000047",
+    "department_id":"DEP-002",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":1900000,
+    "required_skills":[
+      "Testing",
+      "TypeScript",
+      "React"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000048",
+    "department_id":"DEP-003",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2200000,
+    "required_skills":[
+      "SQL",
+      "Python",
+      "AWS"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000049",
+    "department_id":"DEP-004",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":1900000,
+    "required_skills":[
+      "Machine Learning",
+      "Docker",
+      "Python"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000050",
+    "department_id":"DEP-005",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":2100000,
+    "required_skills":[
+      "AWS",
+      "Docker",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000051",
+    "department_id":"DEP-001",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2000000,
+    "required_skills":[
+      "Machine Learning",
+      "Testing",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000052",
+    "department_id":"DEP-002",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":1300000,
+    "salary_max":2000000,
+    "required_skills":[
+      "FastAPI",
+      "Docker",
+      "TypeScript"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000053",
+    "department_id":"DEP-003",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":600000,
+    "salary_max":1600000,
+    "required_skills":[
+      "FastAPI",
+      "SQL",
+      "AWS"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000054",
+    "department_id":"DEP-004",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1200000,
+    "salary_max":1600000,
+    "required_skills":[
+      "TypeScript",
+      "Data Analysis",
+      "Python"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000055",
+    "department_id":"DEP-005",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":900000,
+    "salary_max":1700000,
+    "required_skills":[
+      "PostgreSQL",
+      "FastAPI",
+      "Testing"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000056",
+    "department_id":"DEP-001",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2100000,
+    "required_skills":[
+      "Data Analysis",
+      "FastAPI",
+      "SQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000057",
+    "department_id":"DEP-002",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2800000,
+    "required_skills":[
+      "Python",
+      "Docker",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000058",
+    "department_id":"DEP-003",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":1600000,
+    "required_skills":[
+      "SQL",
+      "React",
+      "AWS"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000059",
+    "department_id":"DEP-004",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2200000,
+    "required_skills":[
+      "TypeScript",
+      "Testing",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000060",
+    "department_id":"DEP-005",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2500000,
+    "required_skills":[
+      "Communication",
+      "FastAPI",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000061",
+    "department_id":"DEP-001",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2700000,
+    "required_skills":[
+      "TypeScript",
+      "FastAPI",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000062",
+    "department_id":"DEP-002",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":1800000,
+    "required_skills":[
+      "Communication",
+      "Python",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000063",
+    "department_id":"DEP-003",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2400000,
+    "required_skills":[
+      "Testing",
+      "PostgreSQL",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000064",
+    "department_id":"DEP-004",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":1200000,
+    "salary_max":1800000,
+    "required_skills":[
+      "TypeScript",
+      "FastAPI",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000065",
+    "department_id":"DEP-005",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":2700000,
+    "required_skills":[
+      "Docker",
+      "AWS",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000066",
+    "department_id":"DEP-001",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":600000,
+    "salary_max":1900000,
+    "required_skills":[
+      "Testing",
+      "Communication",
+      "React"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000067",
+    "department_id":"DEP-002",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":1600000,
+    "required_skills":[
+      "SQL",
+      "Data Analysis",
+      "Docker"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000068",
+    "department_id":"DEP-003",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2000000,
+    "required_skills":[
+      "SQL",
+      "Testing",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000069",
+    "department_id":"DEP-004",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":900000,
+    "salary_max":2500000,
+    "required_skills":[
+      "Python",
+      "Testing",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000070",
+    "department_id":"DEP-005",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2000000,
+    "required_skills":[
+      "Docker",
+      "Communication",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000071",
+    "department_id":"DEP-001",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":1800000,
+    "required_skills":[
+      "PostgreSQL",
+      "TypeScript",
+      "Communication"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000072",
+    "department_id":"DEP-002",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":1400000,
+    "salary_max":2100000,
+    "required_skills":[
+      "Docker",
+      "React",
+      "Python"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000073",
+    "department_id":"DEP-003",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":1800000,
+    "required_skills":[
+      "Communication",
+      "Testing",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000074",
+    "department_id":"DEP-004",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":600000,
+    "salary_max":2800000,
+    "required_skills":[
+      "Docker",
+      "React",
+      "Communication"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000075",
+    "department_id":"DEP-005",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2800000,
+    "required_skills":[
+      "React",
+      "SQL",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000076",
+    "department_id":"DEP-001",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1000000,
+    "salary_max":1700000,
+    "required_skills":[
+      "Machine Learning",
+      "React",
+      "Communication"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000077",
+    "department_id":"DEP-002",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":900000,
+    "salary_max":2100000,
+    "required_skills":[
+      "TypeScript",
+      "Testing",
+      "AWS"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000078",
+    "department_id":"DEP-003",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":900000,
+    "salary_max":2300000,
+    "required_skills":[
+      "Testing",
+      "PostgreSQL",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000079",
+    "department_id":"DEP-004",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":2000000,
+    "required_skills":[
+      "PostgreSQL",
+      "React",
+      "FastAPI"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000080",
+    "department_id":"DEP-005",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":1400000,
+    "salary_max":2000000,
+    "required_skills":[
+      "PostgreSQL",
+      "FastAPI",
+      "SQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000081",
+    "department_id":"DEP-001",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":600000,
+    "salary_max":1700000,
+    "required_skills":[
+      "Testing",
+      "React",
+      "FastAPI"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000082",
+    "department_id":"DEP-002",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":1400000,
+    "salary_max":1800000,
+    "required_skills":[
+      "Data Analysis",
+      "Communication",
+      "TypeScript"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000083",
+    "department_id":"DEP-003",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1400000,
+    "salary_max":1700000,
+    "required_skills":[
+      "AWS",
+      "React",
+      "Testing"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000084",
+    "department_id":"DEP-004",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":1800000,
+    "required_skills":[
+      "AWS",
+      "React",
+      "SQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000085",
+    "department_id":"DEP-005",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":600000,
+    "salary_max":2700000,
+    "required_skills":[
+      "SQL",
+      "TypeScript",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000086",
+    "department_id":"DEP-001",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":600000,
+    "salary_max":2500000,
+    "required_skills":[
+      "SQL",
+      "Docker",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000087",
+    "department_id":"DEP-002",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":2900000,
+    "required_skills":[
+      "React",
+      "Python",
+      "TypeScript"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000088",
+    "department_id":"DEP-003",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1200000,
+    "salary_max":1800000,
+    "required_skills":[
+      "TypeScript",
+      "Data Analysis",
+      "Testing"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000089",
+    "department_id":"DEP-004",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":2300000,
+    "required_skills":[
+      "Machine Learning",
+      "Data Analysis",
+      "Docker"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000090",
+    "department_id":"DEP-005",
+    "title":"Frontend Engineer",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":2900000,
+    "required_skills":[
+      "FastAPI",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000091",
+    "department_id":"DEP-001",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2100000,
+    "required_skills":[
+      "React",
+      "FastAPI",
+      "SQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000092",
+    "department_id":"DEP-002",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":1100000,
+    "salary_max":2900000,
+    "required_skills":[
+      "Docker",
+      "React",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000093",
+    "department_id":"DEP-003",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":1200000,
+    "salary_max":2300000,
+    "required_skills":[
+      "React",
+      "Data Analysis",
+      "Testing"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000094",
+    "department_id":"DEP-004",
+    "title":"QA Engineer",
+    "status":"approved",
+    "salary_min":800000,
+    "salary_max":2900000,
+    "required_skills":[
+      "React",
+      "FastAPI",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000095",
+    "department_id":"DEP-005",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":700000,
+    "salary_max":2700000,
+    "required_skills":[
+      "Machine Learning",
+      "Data Analysis",
+      "FastAPI"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000096",
+    "department_id":"DEP-001",
+    "title":"AI Engineer",
+    "status":"approved",
+    "salary_min":600000,
+    "salary_max":2400000,
+    "required_skills":[
+      "Docker",
+      "Python",
+      "AWS"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000097",
+    "department_id":"DEP-002",
+    "title":"Data Analyst",
+    "status":"approved",
+    "salary_min":500000,
+    "salary_max":2400000,
+    "required_skills":[
+      "PostgreSQL",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000098",
+    "department_id":"DEP-003",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":1200000,
+    "salary_max":2700000,
+    "required_skills":[
+      "Python",
+      "TypeScript",
+      "Data Analysis"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000099",
+    "department_id":"DEP-004",
+    "title":"Platform Engineer",
+    "status":"approved",
+    "salary_min":900000,
+    "salary_max":1800000,
+    "required_skills":[
+      "Docker",
+      "Testing",
+      "Python"
+    ]
+  },
+  {
+    "requisition_id":"REQ-2026-000100",
+    "department_id":"DEP-005",
+    "title":"Backend Engineer",
+    "status":"approved",
+    "salary_min":600000,
+    "salary_max":2800000,
+    "required_skills":[
+      "PostgreSQL",
+      "AWS",
+      "FastAPI"
+    ]
+  }
+]

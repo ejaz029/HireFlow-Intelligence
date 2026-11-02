@@ -1,0 +1,94 @@
+{
+  "checks": {
+    "departments.department_id.unique": true,
+    "skills.skill_id.unique": true,
+    "job_requisitions.requisition_id.unique": true,
+    "candidates.candidate_id.unique": true,
+    "applications.application_id.unique": true,
+    "interviews.interview_id.unique": true,
+    "offers.offer_id.unique": true,
+    "fk.job_requisitions.department_id": true,
+    "fk.interviewers.department_id": true,
+    "fk.requisition_skills.requisition_id": true,
+    "fk.screening_rules.requisition_id": true,
+    "fk.requisition_skills.skill": true,
+    "fk.candidate_skills.candidate_id": true,
+    "fk.candidate_skills.skill": true,
+    "fk.applications.requisition_id": true,
+    "fk.applications.candidate_id": true,
+    "fk.resume_artifacts.candidate_id": true,
+    "fk.interviewer_availability.interviewer_id": true,
+    "fk.interviews.application_id": true,
+    "fk.interviews.interviewer_id": true,
+    "fk.feedback.interview_id": true,
+    "fk.feedback.interviewer_id": true,
+    "fk.offers.application_id": true,
+    "applications.requisition_candidate_pair_unique": true,
+    "screening_scores_reconcile_to_source": true,
+    "requisition.salary_band_order": true,
+    "enum.applications.stage": true,
+    "enum.applications.status": true,
+    "enum.job_requisitions.status": true,
+    "enum.offers.status": true,
+    "enum.feedback.recommendation": true,
+    "screening_rules.weights_and_threshold_valid": true,
+    "feedback.scores_range_1_5": true,
+    "interviews.positive_duration": true,
+    "interviews.after_application_date": true,
+    "offers.have_interview_feedback": true,
+    "required_volume_counts": true
+  },
+  "errors": [],
+  "intentional_exceptions": {
+    "ground_truth_labels": 6,
+    "issue_types": [
+      "unavailable_interviewer",
+      "interviewer_conflict",
+      "candidate_duplicate_application_attempt",
+      "missing_feedback_stage_advanced",
+      "salary_outside_band",
+      "closed_role_active_application"
+    ]
+  },
+  "required_volume_counts": {
+    "expected": {
+      "job_requisitions": 100,
+      "candidates": 2000,
+      "applications": 3000,
+      "interviews": 600,
+      "offers": 150
+    },
+    "actual": {
+      "job_requisitions": 100,
+      "candidates": 2000,
+      "applications": 3000,
+      "interviews": 600,
+      "offers": 150
+    },
+    "checks": {
+      "job_requisitions": true,
+      "candidates": true,
+      "applications": true,
+      "interviews": true,
+      "offers": true
+    }
+  },
+  "row_counts": {
+    "interviewer_availability": 576,
+    "screening_rules": 100,
+    "applications": 3000,
+    "workflow_events": 6831,
+    "departments": 5,
+    "interviews": 600,
+    "offers": 150,
+    "resume_artifacts": 2000,
+    "feedback": 568,
+    "skills": 12,
+    "requisition_skills": 300,
+    "candidates": 2000,
+    "candidate_skills": 8919,
+    "interviewers": 40,
+    "job_requisitions": 100
+  },
+  "passed": true
+}

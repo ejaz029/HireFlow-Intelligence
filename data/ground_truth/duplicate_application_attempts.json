@@ -1,0 +1,11 @@
+[
+  {
+    "attempt_id": "DUP-ATTEMPT-000001",
+    "requisition_id": "REQ-2026-000052",
+    "candidate_id": "CAND-000679",
+    "original_application_id": "APP-REQ-2026-000052-CAND-000679",
+    "issue_type": "duplicate_application_attempt",
+    "ground_truth": "reject_duplicate",
+    "included_in_valid_applications": false
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "seed": 20261022,
+  "scale": "full",
+  "counts": {
+    "departments": 5,
+    "skills": 12,
+    "job_requisitions": 100,
+    "requisition_skills": 300,
+    "screening_rules": 100,
+    "candidates": 2000,
+    "candidate_skills": 8919,
+    "resume_artifacts": 2000,
+    "applications": 3000,
+    "interviewers": 40,
+    "interviewer_availability": 576,
+    "interviews": 600,
+    "feedback": 568,
+    "offers": 150,
+    "workflow_events": 6831
+  },
+  "generator": "hireflow deterministic synthetic generator",
+  "synthetic_only": true,
+  "requested_counts": {
+    "job_requisitions": 100,
+    "candidates": 2000,
+    "applications": 3000,
+    "interviews": 600,
+    "offers": 150
+  }
+}

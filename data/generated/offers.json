@@ -1,0 +1,1202 @@
+[
+  {
+    "offer_id":"OFF-2026-000001",
+    "application_id":"APP-REQ-2026-000083-CAND-001511",
+    "salary":2200000,
+    "status":"pending",
+    "approved_by":"Approver 1",
+    "created_at":"2026-06-16T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000002",
+    "application_id":"APP-REQ-2026-000032-CAND-000575",
+    "salary":1979464,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-05-17T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000003",
+    "application_id":"APP-REQ-2026-000060-CAND-000208",
+    "salary":1529832,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-10-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000004",
+    "application_id":"APP-REQ-2026-000098-CAND-000348",
+    "salary":2281202,
+    "status":"rejected",
+    "approved_by":"Approver 4",
+    "created_at":"2026-09-10T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000005",
+    "application_id":"APP-REQ-2026-000091-CAND-000125",
+    "salary":910347,
+    "status":"rejected",
+    "approved_by":"Approver 5",
+    "created_at":"2026-09-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000006",
+    "application_id":"APP-REQ-2026-000021-CAND-001462",
+    "salary":1247562,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-07-17T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000007",
+    "application_id":"APP-REQ-2026-000095-CAND-001784",
+    "salary":1274201,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-08-21T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000008",
+    "application_id":"APP-REQ-2026-000016-CAND-001022",
+    "salary":1736488,
+    "status":"rejected",
+    "approved_by":"Approver 3",
+    "created_at":"2026-06-21T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000009",
+    "application_id":"APP-REQ-2026-000097-CAND-001647",
+    "salary":1960008,
+    "status":"rejected",
+    "approved_by":"Approver 4",
+    "created_at":"2026-10-08T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000010",
+    "application_id":"APP-REQ-2026-000077-CAND-000922",
+    "salary":1894350,
+    "status":"pending",
+    "approved_by":"Approver 5",
+    "created_at":"2026-04-24T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000011",
+    "application_id":"APP-REQ-2026-000062-CAND-000641",
+    "salary":1313369,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-05-07T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000012",
+    "application_id":"APP-REQ-2026-000007-CAND-000608",
+    "salary":1780980,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-05-24T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000013",
+    "application_id":"APP-REQ-2026-000073-CAND-001102",
+    "salary":1206195,
+    "status":"rejected",
+    "approved_by":"Approver 3",
+    "created_at":"2026-06-16T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000014",
+    "application_id":"APP-REQ-2026-000053-CAND-001967",
+    "salary":893681,
+    "status":"rejected",
+    "approved_by":"Approver 4",
+    "created_at":"2026-10-19T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000015",
+    "application_id":"APP-REQ-2026-000008-CAND-000657",
+    "salary":2059970,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-09-13T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000016",
+    "application_id":"APP-REQ-2026-000023-CAND-001477",
+    "salary":1442004,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-10-09T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000017",
+    "application_id":"APP-REQ-2026-000009-CAND-000724",
+    "salary":1492786,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-10-10T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000018",
+    "application_id":"APP-REQ-2026-000060-CAND-000113",
+    "salary":2143745,
+    "status":"accepted",
+    "approved_by":"Approver 3",
+    "created_at":"2026-06-13T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000019",
+    "application_id":"APP-REQ-2026-000051-CAND-001489",
+    "salary":1801246,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-10-11T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000020",
+    "application_id":"APP-REQ-2026-000088-CAND-000474",
+    "salary":1570130,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-09-20T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000021",
+    "application_id":"APP-REQ-2026-000019-CAND-001693",
+    "salary":2131641,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-04-13T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000022",
+    "application_id":"APP-REQ-2026-000026-CAND-000321",
+    "salary":2164034,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-08-07T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000023",
+    "application_id":"APP-REQ-2026-000037-CAND-001666",
+    "salary":1548340,
+    "status":"accepted",
+    "approved_by":"Approver 3",
+    "created_at":"2026-08-14T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000024",
+    "application_id":"APP-REQ-2026-000062-CAND-001045",
+    "salary":1658900,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-05-18T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000025",
+    "application_id":"APP-REQ-2026-000057-CAND-000185",
+    "salary":1995349,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-10-17T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000026",
+    "application_id":"APP-REQ-2026-000042-CAND-001746",
+    "salary":1516213,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-04-18T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000027",
+    "application_id":"APP-REQ-2026-000056-CAND-001541",
+    "salary":1814599,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-04-01T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000028",
+    "application_id":"APP-REQ-2026-000083-CAND-001489",
+    "salary":1635763,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-08-07T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000029",
+    "application_id":"APP-REQ-2026-000038-CAND-001163",
+    "salary":1287222,
+    "status":"rejected",
+    "approved_by":"Approver 4",
+    "created_at":"2026-08-07T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000030",
+    "application_id":"APP-REQ-2026-000012-CAND-001468",
+    "salary":1589471,
+    "status":"rejected",
+    "approved_by":"Approver 5",
+    "created_at":"2026-08-12T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000031",
+    "application_id":"APP-REQ-2026-000045-CAND-000801",
+    "salary":1396924,
+    "status":"pending",
+    "approved_by":"Approver 1",
+    "created_at":"2026-07-21T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000032",
+    "application_id":"APP-REQ-2026-000063-CAND-001506",
+    "salary":1516926,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-05-09T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000033",
+    "application_id":"APP-REQ-2026-000083-CAND-000642",
+    "salary":1513352,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-08-06T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000034",
+    "application_id":"APP-REQ-2026-000097-CAND-000017",
+    "salary":1642302,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-06-10T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000035",
+    "application_id":"APP-REQ-2026-000049-CAND-000459",
+    "salary":1471080,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-06-06T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000036",
+    "application_id":"APP-REQ-2026-000003-CAND-001010",
+    "salary":1490012,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-09-23T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000037",
+    "application_id":"APP-REQ-2026-000087-CAND-001368",
+    "salary":2234881,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-07-11T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000038",
+    "application_id":"APP-REQ-2026-000079-CAND-001666",
+    "salary":1980341,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-08-08T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000039",
+    "application_id":"APP-REQ-2026-000076-CAND-001126",
+    "salary":1479343,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-05-27T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000040",
+    "application_id":"APP-REQ-2026-000030-CAND-001408",
+    "salary":1329296,
+    "status":"pending",
+    "approved_by":"Approver 5",
+    "created_at":"2026-10-01T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000041",
+    "application_id":"APP-REQ-2026-000079-CAND-000401",
+    "salary":1225214,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-07-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000042",
+    "application_id":"APP-REQ-2026-000026-CAND-000202",
+    "salary":1059736,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-05-04T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000043",
+    "application_id":"APP-REQ-2026-000003-CAND-000445",
+    "salary":1519795,
+    "status":"accepted",
+    "approved_by":"Approver 3",
+    "created_at":"2026-07-18T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000044",
+    "application_id":"APP-REQ-2026-000004-CAND-000277",
+    "salary":1333498,
+    "status":"rejected",
+    "approved_by":"Approver 4",
+    "created_at":"2026-05-25T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000045",
+    "application_id":"APP-REQ-2026-000049-CAND-001562",
+    "salary":892272,
+    "status":"rejected",
+    "approved_by":"Approver 5",
+    "created_at":"2026-09-07T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000046",
+    "application_id":"APP-REQ-2026-000002-CAND-001885",
+    "salary":1404467,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-05-09T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000047",
+    "application_id":"APP-REQ-2026-000060-CAND-001701",
+    "salary":981289,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-10-17T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000048",
+    "application_id":"APP-REQ-2026-000056-CAND-001732",
+    "salary":1586024,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-10-03T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000049",
+    "application_id":"APP-REQ-2026-000033-CAND-000518",
+    "salary":1945686,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-07-24T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000050",
+    "application_id":"APP-REQ-2026-000022-CAND-001007",
+    "salary":1662362,
+    "status":"pending",
+    "approved_by":"Approver 5",
+    "created_at":"2026-09-28T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000051",
+    "application_id":"APP-REQ-2026-000039-CAND-000308",
+    "salary":1899695,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-10-28T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000052",
+    "application_id":"APP-REQ-2026-000038-CAND-000722",
+    "salary":1565307,
+    "status":"accepted",
+    "approved_by":"Approver 2",
+    "created_at":"2026-05-04T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000053",
+    "application_id":"APP-REQ-2026-000082-CAND-000901",
+    "salary":1525244,
+    "status":"rejected",
+    "approved_by":"Approver 3",
+    "created_at":"2026-05-28T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000054",
+    "application_id":"APP-REQ-2026-000004-CAND-001741",
+    "salary":1566532,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-05-14T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000055",
+    "application_id":"APP-REQ-2026-000079-CAND-000086",
+    "salary":1462328,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-07-18T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000056",
+    "application_id":"APP-REQ-2026-000083-CAND-000367",
+    "salary":1610041,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-04-02T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000057",
+    "application_id":"APP-REQ-2026-000006-CAND-000468",
+    "salary":1691874,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-07-06T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000058",
+    "application_id":"APP-REQ-2026-000020-CAND-001071",
+    "salary":1623151,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-10-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000059",
+    "application_id":"APP-REQ-2026-000066-CAND-001722",
+    "salary":962848,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-10-26T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000060",
+    "application_id":"APP-REQ-2026-000081-CAND-001891",
+    "salary":1314357,
+    "status":"pending",
+    "approved_by":"Approver 5",
+    "created_at":"2026-07-06T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000061",
+    "application_id":"APP-REQ-2026-000024-CAND-001159",
+    "salary":1662251,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-07-13T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000062",
+    "application_id":"APP-REQ-2026-000063-CAND-001511",
+    "salary":995387,
+    "status":"accepted",
+    "approved_by":"Approver 2",
+    "created_at":"2026-09-23T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000063",
+    "application_id":"APP-REQ-2026-000024-CAND-001758",
+    "salary":1320936,
+    "status":"rejected",
+    "approved_by":"Approver 3",
+    "created_at":"2026-10-17T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000064",
+    "application_id":"APP-REQ-2026-000049-CAND-001298",
+    "salary":1616358,
+    "status":"rejected",
+    "approved_by":"Approver 4",
+    "created_at":"2026-08-23T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000065",
+    "application_id":"APP-REQ-2026-000087-CAND-000635",
+    "salary":1057589,
+    "status":"rejected",
+    "approved_by":"Approver 5",
+    "created_at":"2026-08-27T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000066",
+    "application_id":"APP-REQ-2026-000034-CAND-000728",
+    "salary":1399392,
+    "status":"pending",
+    "approved_by":"Approver 1",
+    "created_at":"2026-07-20T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000067",
+    "application_id":"APP-REQ-2026-000037-CAND-000587",
+    "salary":1747640,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-10-09T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000068",
+    "application_id":"APP-REQ-2026-000014-CAND-000381",
+    "salary":1197840,
+    "status":"accepted",
+    "approved_by":"Approver 3",
+    "created_at":"2026-09-20T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000069",
+    "application_id":"APP-REQ-2026-000063-CAND-001834",
+    "salary":1069594,
+    "status":"rejected",
+    "approved_by":"Approver 4",
+    "created_at":"2026-09-20T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000070",
+    "application_id":"APP-REQ-2026-000098-CAND-001451",
+    "salary":2199154,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-08-27T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000071",
+    "application_id":"APP-REQ-2026-000096-CAND-000631",
+    "salary":1462864,
+    "status":"pending",
+    "approved_by":"Approver 1",
+    "created_at":"2026-09-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000072",
+    "application_id":"APP-REQ-2026-000037-CAND-000114",
+    "salary":1675279,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-10-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000073",
+    "application_id":"APP-REQ-2026-000079-CAND-001758",
+    "salary":1132433,
+    "status":"rejected",
+    "approved_by":"Approver 3",
+    "created_at":"2026-07-13T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000074",
+    "application_id":"APP-REQ-2026-000036-CAND-001978",
+    "salary":1363311,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-05-10T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000075",
+    "application_id":"APP-REQ-2026-000036-CAND-000873",
+    "salary":2274013,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-05-02T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000076",
+    "application_id":"APP-REQ-2026-000070-CAND-001170",
+    "salary":1184430,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-04-05T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000077",
+    "application_id":"APP-REQ-2026-000085-CAND-000570",
+    "salary":1144712,
+    "status":"accepted",
+    "approved_by":"Approver 2",
+    "created_at":"2026-09-17T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000078",
+    "application_id":"APP-REQ-2026-000064-CAND-000813",
+    "salary":1586676,
+    "status":"rejected",
+    "approved_by":"Approver 3",
+    "created_at":"2026-08-20T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000079",
+    "application_id":"APP-REQ-2026-000004-CAND-000427",
+    "salary":1451907,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-09-23T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000080",
+    "application_id":"APP-REQ-2026-000075-CAND-001634",
+    "salary":1450663,
+    "status":"pending",
+    "approved_by":"Approver 5",
+    "created_at":"2026-09-16T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000081",
+    "application_id":"APP-REQ-2026-000012-CAND-000878",
+    "salary":1377050,
+    "status":"pending",
+    "approved_by":"Approver 1",
+    "created_at":"2026-08-17T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000082",
+    "application_id":"APP-REQ-2026-000053-CAND-000391",
+    "salary":919839,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-04-11T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000083",
+    "application_id":"APP-REQ-2026-000003-CAND-001741",
+    "salary":1486996,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-04-23T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000084",
+    "application_id":"APP-REQ-2026-000066-CAND-001929",
+    "salary":1856146,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-05-08T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000085",
+    "application_id":"APP-REQ-2026-000058-CAND-000924",
+    "salary":737148,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-05-14T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000086",
+    "application_id":"APP-REQ-2026-000040-CAND-001273",
+    "salary":1015792,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-07-26T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000087",
+    "application_id":"APP-REQ-2026-000070-CAND-000722",
+    "salary":1505486,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-10-25T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000088",
+    "application_id":"APP-REQ-2026-000032-CAND-000464",
+    "salary":2062034,
+    "status":"accepted",
+    "approved_by":"Approver 3",
+    "created_at":"2026-09-13T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000089",
+    "application_id":"APP-REQ-2026-000012-CAND-000559",
+    "salary":2540010,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-07-26T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000090",
+    "application_id":"APP-REQ-2026-000083-CAND-001005",
+    "salary":1649381,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-10-08T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000091",
+    "application_id":"APP-REQ-2026-000068-CAND-001552",
+    "salary":1151773,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-09-28T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000092",
+    "application_id":"APP-REQ-2026-000100-CAND-001477",
+    "salary":794434,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-10-20T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000093",
+    "application_id":"APP-REQ-2026-000016-CAND-001337",
+    "salary":1385816,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-08-02T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000094",
+    "application_id":"APP-REQ-2026-000075-CAND-001233",
+    "salary":2150584,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-08-07T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000095",
+    "application_id":"APP-REQ-2026-000061-CAND-001732",
+    "salary":1731239,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-10-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000096",
+    "application_id":"APP-REQ-2026-000024-CAND-001991",
+    "salary":1745313,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-09-19T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000097",
+    "application_id":"APP-REQ-2026-000064-CAND-001667",
+    "salary":1363378,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-06-25T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000098",
+    "application_id":"APP-REQ-2026-000086-CAND-001732",
+    "salary":1150660,
+    "status":"accepted",
+    "approved_by":"Approver 3",
+    "created_at":"2026-06-24T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000099",
+    "application_id":"APP-REQ-2026-000044-CAND-001921",
+    "salary":1132993,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-04-06T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000100",
+    "application_id":"APP-REQ-2026-000032-CAND-001940",
+    "salary":1711523,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-07-08T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000101",
+    "application_id":"APP-REQ-2026-000096-CAND-001298",
+    "salary":1985253,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-07-03T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000102",
+    "application_id":"APP-REQ-2026-000090-CAND-000856",
+    "salary":2332793,
+    "status":"accepted",
+    "approved_by":"Approver 2",
+    "created_at":"2026-04-01T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000103",
+    "application_id":"APP-REQ-2026-000055-CAND-000581",
+    "salary":1567120,
+    "status":"accepted",
+    "approved_by":"Approver 3",
+    "created_at":"2026-08-12T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000104",
+    "application_id":"APP-REQ-2026-000006-CAND-001801",
+    "salary":1355746,
+    "status":"rejected",
+    "approved_by":"Approver 4",
+    "created_at":"2026-08-12T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000105",
+    "application_id":"APP-REQ-2026-000085-CAND-000300",
+    "salary":1070098,
+    "status":"pending",
+    "approved_by":"Approver 5",
+    "created_at":"2026-07-02T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000106",
+    "application_id":"APP-REQ-2026-000091-CAND-001542",
+    "salary":987579,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-06-12T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000107",
+    "application_id":"APP-REQ-2026-000033-CAND-000503",
+    "salary":2091920,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-04-04T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000108",
+    "application_id":"APP-REQ-2026-000080-CAND-000163",
+    "salary":1605618,
+    "status":"rejected",
+    "approved_by":"Approver 3",
+    "created_at":"2026-09-01T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000109",
+    "application_id":"APP-REQ-2026-000093-CAND-001196",
+    "salary":1694321,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-05-06T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000110",
+    "application_id":"APP-REQ-2026-000018-CAND-001264",
+    "salary":2492532,
+    "status":"pending",
+    "approved_by":"Approver 5",
+    "created_at":"2026-06-16T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000111",
+    "application_id":"APP-REQ-2026-000029-CAND-000592",
+    "salary":1366492,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-09-16T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000112",
+    "application_id":"APP-REQ-2026-000049-CAND-001787",
+    "salary":1790470,
+    "status":"accepted",
+    "approved_by":"Approver 2",
+    "created_at":"2026-06-16T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000113",
+    "application_id":"APP-REQ-2026-000006-CAND-001077",
+    "salary":2037508,
+    "status":"rejected",
+    "approved_by":"Approver 3",
+    "created_at":"2026-04-24T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000114",
+    "application_id":"APP-REQ-2026-000036-CAND-001821",
+    "salary":2564116,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-10-26T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000115",
+    "application_id":"APP-REQ-2026-000075-CAND-000882",
+    "salary":2262529,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-04-16T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000116",
+    "application_id":"APP-REQ-2026-000006-CAND-000877",
+    "salary":2020110,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-09-25T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000117",
+    "application_id":"APP-REQ-2026-000044-CAND-000920",
+    "salary":1297186,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-06-04T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000118",
+    "application_id":"APP-REQ-2026-000077-CAND-001149",
+    "salary":1161796,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-06-05T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000119",
+    "application_id":"APP-REQ-2026-000091-CAND-001317",
+    "salary":1710939,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-04-01T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000120",
+    "application_id":"APP-REQ-2026-000047-CAND-001653",
+    "salary":1527108,
+    "status":"rejected",
+    "approved_by":"Approver 5",
+    "created_at":"2026-08-02T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000121",
+    "application_id":"APP-REQ-2026-000008-CAND-000108",
+    "salary":1782548,
+    "status":"accepted",
+    "approved_by":"Approver 1",
+    "created_at":"2026-09-05T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000122",
+    "application_id":"APP-REQ-2026-000002-CAND-001254",
+    "salary":1359613,
+    "status":"accepted",
+    "approved_by":"Approver 2",
+    "created_at":"2026-04-17T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000123",
+    "application_id":"APP-REQ-2026-000002-CAND-000398",
+    "salary":1601036,
+    "status":"accepted",
+    "approved_by":"Approver 3",
+    "created_at":"2026-10-19T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000124",
+    "application_id":"APP-REQ-2026-000054-CAND-000361",
+    "salary":1538160,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-10-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000125",
+    "application_id":"APP-REQ-2026-000089-CAND-000352",
+    "salary":1921723,
+    "status":"rejected",
+    "approved_by":"Approver 5",
+    "created_at":"2026-10-25T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000126",
+    "application_id":"APP-REQ-2026-000026-CAND-001155",
+    "salary":2009060,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-06-11T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000127",
+    "application_id":"APP-REQ-2026-000005-CAND-000005",
+    "salary":1055724,
+    "status":"accepted",
+    "approved_by":"Approver 2",
+    "created_at":"2026-04-17T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000128",
+    "application_id":"APP-REQ-2026-000098-CAND-000373",
+    "salary":1462242,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-07-01T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000129",
+    "application_id":"APP-REQ-2026-000009-CAND-001073",
+    "salary":1856551,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-06-24T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000130",
+    "application_id":"APP-REQ-2026-000060-CAND-000644",
+    "salary":938959,
+    "status":"pending",
+    "approved_by":"Approver 5",
+    "created_at":"2026-10-28T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000131",
+    "application_id":"APP-REQ-2026-000053-CAND-001359",
+    "salary":740241,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-09-19T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000132",
+    "application_id":"APP-REQ-2026-000050-CAND-001377",
+    "salary":1929902,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-06-19T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000133",
+    "application_id":"APP-REQ-2026-000065-CAND-000786",
+    "salary":2388638,
+    "status":"rejected",
+    "approved_by":"Approver 3",
+    "created_at":"2026-07-13T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000134",
+    "application_id":"APP-REQ-2026-000071-CAND-000173",
+    "salary":1498612,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-05-06T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000135",
+    "application_id":"APP-REQ-2026-000077-CAND-000866",
+    "salary":2017025,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-04-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000136",
+    "application_id":"APP-REQ-2026-000032-CAND-000701",
+    "salary":2186240,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-08-04T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000137",
+    "application_id":"APP-REQ-2026-000073-CAND-001067",
+    "salary":1348356,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-04-12T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000138",
+    "application_id":"APP-REQ-2026-000041-CAND-001517",
+    "salary":2246978,
+    "status":"accepted",
+    "approved_by":"Approver 3",
+    "created_at":"2026-09-21T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000139",
+    "application_id":"APP-REQ-2026-000044-CAND-000034",
+    "salary":1138810,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-08-08T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000140",
+    "application_id":"APP-REQ-2026-000009-CAND-001234",
+    "salary":1721603,
+    "status":"pending",
+    "approved_by":"Approver 5",
+    "created_at":"2026-06-18T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000141",
+    "application_id":"APP-REQ-2026-000013-CAND-000559",
+    "salary":1529272,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-07-20T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000142",
+    "application_id":"APP-REQ-2026-000066-CAND-001466",
+    "salary":1528088,
+    "status":"rejected",
+    "approved_by":"Approver 2",
+    "created_at":"2026-09-10T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000143",
+    "application_id":"APP-REQ-2026-000045-CAND-000481",
+    "salary":1474843,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-10-16T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000144",
+    "application_id":"APP-REQ-2026-000040-CAND-000297",
+    "salary":1570928,
+    "status":"pending",
+    "approved_by":"Approver 4",
+    "created_at":"2026-10-12T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000145",
+    "application_id":"APP-REQ-2026-000004-CAND-001286",
+    "salary":1558325,
+    "status":"rejected",
+    "approved_by":"Approver 5",
+    "created_at":"2026-05-05T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000146",
+    "application_id":"APP-REQ-2026-000050-CAND-001559",
+    "salary":1315570,
+    "status":"rejected",
+    "approved_by":"Approver 1",
+    "created_at":"2026-10-23T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000147",
+    "application_id":"APP-REQ-2026-000034-CAND-001110",
+    "salary":1489089,
+    "status":"pending",
+    "approved_by":"Approver 2",
+    "created_at":"2026-08-27T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000148",
+    "application_id":"APP-REQ-2026-000003-CAND-000588",
+    "salary":1632900,
+    "status":"pending",
+    "approved_by":"Approver 3",
+    "created_at":"2026-08-15T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000149",
+    "application_id":"APP-REQ-2026-000024-CAND-000646",
+    "salary":887388,
+    "status":"accepted",
+    "approved_by":"Approver 4",
+    "created_at":"2026-10-21T19:00:00"
+  },
+  {
+    "offer_id":"OFF-2026-000150",
+    "application_id":"APP-REQ-2026-000064-CAND-000766",
+    "salary":1382536,
+    "status":"accepted",
+    "approved_by":"Approver 5",
+    "created_at":"2026-04-25T19:00:00"
+  }
+]

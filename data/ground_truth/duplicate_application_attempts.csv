@@ -1,0 +1,2 @@
+attempt_id,requisition_id,candidate_id,original_application_id,issue_type,ground_truth,included_in_valid_applications
+DUP-ATTEMPT-000001,REQ-2026-000052,CAND-000679,APP-REQ-2026-000052-CAND-000679,duplicate_application_attempt,reject_duplicate,False

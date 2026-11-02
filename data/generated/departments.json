@@ -1,0 +1,22 @@
+[
+  {
+    "department_id":"DEP-001",
+    "name":"Engineering"
+  },
+  {
+    "department_id":"DEP-002",
+    "name":"Data"
+  },
+  {
+    "department_id":"DEP-003",
+    "name":"Product"
+  },
+  {
+    "department_id":"DEP-004",
+    "name":"Operations"
+  },
+  {
+    "department_id":"DEP-005",
+    "name":"Security"
+  }
+]
