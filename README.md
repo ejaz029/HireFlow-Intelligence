@@ -6,11 +6,45 @@ HireFlow models requisitions, candidates, applications, skills, resumes, screeni
 
 ## Quick start
 
-### 1. Start PostgreSQL and the API
+### 1. Start MySQL and the API
+
+Configure `.env` using `.env.example`:
+
+```env
+DATABASE_URL=mysql+pymysql://hireflow:your_password@localhost:3306/hireflow
+CORS_ORIGINS=http://localhost:5173
+```
+
+Start the MySQL database using Docker Compose:
 
 ```bash
-cp .env.example .env
 docker compose up --build -d
+```
+
+From the repository root, install backend dependencies and start the API:
+
+```bash
+cd backend
+python -m venv .venv
+```
+
+Activate the environment:
+
+```powershell
+# Windows
+.venv\Scripts\activate
+```
+
+```bash
+# macOS/Linux
+source .venv/bin/activate
+```
+
+Install dependencies and run:
+
+```bash
+pip install -r requirements.txt
+uvicorn app.main:app --reload
 ```
 
 API: http://localhost:8000  
@@ -19,14 +53,9 @@ Health: http://localhost:8000/api/health
 
 ### 2. Generate deterministic datasets
 
-From the repository root:
+From the backend directory:
 
 ```bash
-cd backend
-python -m venv .venv
-# Windows: .venv\\Scripts\\activate
-# macOS/Linux: source .venv/bin/activate
-pip install -r requirements.txt
 python -m generator.generate --scale starter --seed 20261022 --output ../data/generated
 python -m validation.validate ../data/generated
 python -m generator.seed_from_csv --folder ../data/generated --reset
@@ -36,8 +65,10 @@ Use `--scale full` for the challenge target volumes. The starter and full modes 
 
 ### 3. Start the frontend
 
+Open another terminal from the repository root:
+
 ```bash
-cd ../frontend
+cd frontend
 npm install
 npm run dev
 ```
@@ -90,4 +121,6 @@ These are explicit follow-up tasks; do not represent them as already implemented
 
 The deterministic generator writes six labelled edge cases to `data/ground_truth/ground_truth.csv`. The database seeder stores these separately in `ground_truth_labels`; the duplicate-application case is recorded as a prevented attempt and is not counted as a detector anomaly. After seeding, run `POST /api/issues/scan` and inspect `GET /api/issues/evaluation` to compare detected issues with the five labelled anomalies. The evaluation reports precision, recall, missed anomalies, and unexpected detections.
 
-For MySQL deployments, install the requirements (including PyMySQL) and set `DATABASE_URL` to `mysql+pymysql://...`. PostgreSQL remains supported through the included psycopg driver.
+### Database Configuration
+
+The project uses MySQL with SQLAlchemy and PyMySQL. Configure the `DATABASE_URL` environment variable in `.env` with your MySQL connection details. Keep database credentials out of version control.
