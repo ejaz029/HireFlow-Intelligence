@@ -9,7 +9,7 @@ It provides transparency into the prompts used for architecture planning, implem
 
 ## 2. AI Tools
 
-| AI Tool        | Intended / Documented Usage                                                   |
+| AI Tool        | Usage                                                  |
 | -------------- | ----------------------------------------------------------------------------- |
 | ChatGPT        | Architecture guidance, implementation assistance, debugging and documentation |
 | OpenAI Codex   | Code implementation, refactoring and code review                   |
